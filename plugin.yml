@@ -1,0 +1,15 @@
+main : site.jx2h.mincraft.hevinhood.pvp.Main
+name : hevinhood_pvp
+version : 1.0.0
+author : Jx2H
+
+commands:
+    testa:
+        description: test
+    gamestart:
+    gamecheck:
+    gamestop:
+    bunker:
+    house:
+    gamemenu:
+    qc:

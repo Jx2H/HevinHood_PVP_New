@@ -1,0 +1,23 @@
+startoptions:
+    teams: 3
+# one-plys: 4
+    center-x: 1900
+    center-z: 2060
+# 스폰 리스트는 팀 수보다 많거나 같아야함. 그렇지 않은경우 오류 유발.
+    spawn-list:
+        - "1430,87,1980"
+        - "2271,96,2833"
+        - "2759,63,1221"
+# 감염 최대 가능 횟수
+    taint: 2
+    notcmd: 30
+    endspawn: "1888,73,2073"
+    endspawn-gt: 40
+    
+shop:
+    pos1: "1758,1953"
+    pos2: "1801,1981"
+    
+items:
+    101:
+        set: 3
